@@ -1,0 +1,1837 @@
+[
+    {
+        "created_at": "Fri Feb 08 07:27:40 +0000 2019",
+        "id": 1093773340215513088,
+        "id_str": "1093773340215513088",
+        "text": "#YatlaSatane Samsung Android users thought they made it in life until Apple did this https://t.co/x6ThaR1Noe",
+        "display_text_range": [
+            0,
+            84
+        ],
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1851574956,
+            "id_str": "1851574956",
+            "name": "mario",
+            "screen_name": "afrimario",
+            "location": "Johannesburg",
+            "url": null,
+            "description": "Introvert By Nature,Extrovert By Flex.Raw, Unfiltered & Unapologetic. Love Tech,Food & A Cold Beer",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 27,
+            "friends_count": 94,
+            "listed_count": 0,
+            "favourites_count": 147,
+            "statuses_count": 635,
+            "created_at": "Tue Sep 10 14:11:34 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/973559894262648833/B9yg9QDn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/973559894262648833/B9yg9QDn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851574956/1520949190",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "YatlaSatane",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": [],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1093773330392535040,
+                    "id_str": "1093773330392535040",
+                    "indices": [
+                        85,
+                        108
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Dy3dDIbX0AA-oFP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Dy3dDIbX0AA-oFP.jpg",
+                    "url": "https://t.co/x6ThaR1Noe",
+                    "display_url": "pic.twitter.com/x6ThaR1Noe",
+                    "expanded_url": "https://twitter.com/afrimario/status/1093773340215513088/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 588,
+                            "h": 521,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 588,
+                            "h": 521,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 588,
+                            "h": 521,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1093773330392535040,
+                    "id_str": "1093773330392535040",
+                    "indices": [
+                        85,
+                        108
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Dy3dDIbX0AA-oFP.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Dy3dDIbX0AA-oFP.jpg",
+                    "url": "https://t.co/x6ThaR1Noe",
+                    "display_url": "pic.twitter.com/x6ThaR1Noe",
+                    "expanded_url": "https://twitter.com/afrimario/status/1093773340215513088/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 588,
+                            "h": 521,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 588,
+                            "h": 521,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 588,
+                            "h": 521,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": true,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610860290"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:27:42 +0000 2019",
+        "id": 1093773350218870785,
+        "id_str": "1093773350218870785",
+        "text": "Every moment of love is adorable and capture these moments forever with the best selfies. Get the best selfie mobil\u2026 https://t.co/xm7y4OaoAF",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2855374328,
+            "id_str": "2855374328",
+            "name": "Navin Electronics",
+            "screen_name": "navin_2015",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 358,
+            "friends_count": 62,
+            "listed_count": 5,
+            "favourites_count": 2,
+            "statuses_count": 1059,
+            "created_at": "Tue Oct 14 09:45:48 +0000 2014",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/951064100888457219/b6ttPusf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/951064100888457219/b6ttPusf_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2855374328/1549025646",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Every moment of love is adorable and capture these moments forever with the best selfies. Get the best selfie mobiles only from Navin Electronics. Ab memorable moments ke liye phones bhi #NavinSeNahinTohKahinSeNahin.\n#NavinElectronics #naVinDay #MobilePhones #Samsung #Oppo #Vivo https://t.co/mRvHgYWNES",
+            "display_text_range": [
+                0,
+                279
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "NavinSeNahinTohKahinSeNahin",
+                        "indices": [
+                            187,
+                            215
+                        ]
+                    },
+                    {
+                        "text": "NavinElectronics",
+                        "indices": [
+                            217,
+                            234
+                        ]
+                    },
+                    {
+                        "text": "naVinDay",
+                        "indices": [
+                            235,
+                            244
+                        ]
+                    },
+                    {
+                        "text": "MobilePhones",
+                        "indices": [
+                            245,
+                            258
+                        ]
+                    },
+                    {
+                        "text": "Samsung",
+                        "indices": [
+                            259,
+                            267
+                        ]
+                    },
+                    {
+                        "text": "Oppo",
+                        "indices": [
+                            268,
+                            273
+                        ]
+                    },
+                    {
+                        "text": "Vivo",
+                        "indices": [
+                            274,
+                            279
+                        ]
+                    }
+                ],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1093773315494170624,
+                        "id_str": "1093773315494170624",
+                        "indices": [
+                            280,
+                            303
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Dy3dCQ7U0AAqaCg.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Dy3dCQ7U0AAqaCg.jpg",
+                        "url": "https://t.co/mRvHgYWNES",
+                        "display_url": "pic.twitter.com/mRvHgYWNES",
+                        "expanded_url": "https://twitter.com/navin_2015/status/1093773350218870785/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1001,
+                                "h": 1001,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1001,
+                                "h": 1001,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1093773315494170624,
+                        "id_str": "1093773315494170624",
+                        "indices": [
+                            280,
+                            303
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Dy3dCQ7U0AAqaCg.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Dy3dCQ7U0AAqaCg.jpg",
+                        "url": "https://t.co/mRvHgYWNES",
+                        "display_url": "pic.twitter.com/mRvHgYWNES",
+                        "expanded_url": "https://twitter.com/navin_2015/status/1093773350218870785/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1001,
+                                "h": 1001,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1001,
+                                "h": 1001,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/xm7y4OaoAF",
+                    "expanded_url": "https://twitter.com/i/web/status/1093773350218870785",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610862675"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:27:47 +0000 2019",
+        "id": 1093773369214988288,
+        "id_str": "1093773369214988288",
+        "text": "Samsung Q900R 8K TV Review - https://t.co/M0GArozXfR https://t.co/PAC5o3fOcR",
+        "display_text_range": [
+            0,
+            52
+        ],
+        "source": "<a href=\"http://www.quanrel.com\" rel=\"nofollow\">Quanrel Technology</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 37210265,
+            "id_str": "37210265",
+            "name": "Quanrel",
+            "screen_name": "quanrel",
+            "location": "United Kingdom",
+            "url": "https://www.quanrel.com",
+            "description": "News, views, reviews, trends and features on user experience, data analytics, content optimisations, intelligent marketing and innovative technologies.",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 5990,
+            "friends_count": 3823,
+            "listed_count": 413,
+            "favourites_count": 2459,
+            "statuses_count": 60246,
+            "created_at": "Sat May 02 14:55:42 +0000 2009",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "056DA9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/837779174165200899/6R2oWpov_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/837779174165200899/6R2oWpov_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/37210265/1462730649",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/M0GArozXfR",
+                    "expanded_url": "https://www.quanrel.com/samsung-q900r-8k-tv-review/",
+                    "display_url": "quanrel.com/samsung-q900r-\u2026",
+                    "indices": [
+                        29,
+                        52
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": [],
+            "media": [
+                {
+                    "id": 1093773367554072582,
+                    "id_str": "1093773367554072582",
+                    "indices": [
+                        53,
+                        76
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Dy3dFS3X4AY0DOm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Dy3dFS3X4AY0DOm.jpg",
+                    "url": "https://t.co/PAC5o3fOcR",
+                    "display_url": "pic.twitter.com/PAC5o3fOcR",
+                    "expanded_url": "https://twitter.com/quanrel/status/1093773369214988288/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1093773367554072582,
+                    "id_str": "1093773367554072582",
+                    "indices": [
+                        53,
+                        76
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Dy3dFS3X4AY0DOm.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Dy3dFS3X4AY0DOm.jpg",
+                    "url": "https://t.co/PAC5o3fOcR",
+                    "display_url": "pic.twitter.com/PAC5o3fOcR",
+                    "expanded_url": "https://twitter.com/quanrel/status/1093773369214988288/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "medium": {
+                            "w": 1200,
+                            "h": 675,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 680,
+                            "h": 383,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1280,
+                            "h": 720,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610867204"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:27:57 +0000 2019",
+        "id": 1093773413481537537,
+        "id_str": "1093773413481537537",
+        "text": "@JohnLegere your manager at the Spokane Valley Mall refuses to call me back... when their employee sold us a buy 1\u2026 https://t.co/Z6fQwwbsUm",
+        "display_text_range": [
+            12,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": true,
+        "in_reply_to_status_id": 1092560860327759872,
+        "in_reply_to_status_id_str": "1092560860327759872",
+        "in_reply_to_user_id": 1394399438,
+        "in_reply_to_user_id_str": "1394399438",
+        "in_reply_to_screen_name": "JohnLegere",
+        "user": {
+            "id": 969670298,
+            "id_str": "969670298",
+            "name": "Rachel",
+            "screen_name": "cobaininchains",
+            "location": "Washington, USA",
+            "url": "https://www.instagram.com/thepushingofdaisies/",
+            "description": "I'm famous for my Janis Joplin covers at the local tavern",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 76,
+            "friends_count": 93,
+            "listed_count": 1,
+            "favourites_count": 4945,
+            "statuses_count": 2099,
+            "created_at": "Sun Nov 25 08:42:58 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/867636574141501440/oC0eSDF3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/867636574141501440/oC0eSDF3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/969670298/1497369773",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "@JohnLegere your manager at the Spokane Valley Mall refuses to call me back... when their employee sold us a buy 1 get 1 free samsung s9 'the day after the sale ended' per one of your billing people.. even tho the sign was still out in front of the store the day we purchased.",
+            "display_text_range": [
+                12,
+                276
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "JohnLegere",
+                        "name": "John Legere",
+                        "id": 1394399438,
+                        "id_str": "1394399438",
+                        "indices": [
+                            0,
+                            11
+                        ]
+                    }
+                ],
+                "symbols": []
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/Z6fQwwbsUm",
+                    "expanded_url": "https://twitter.com/i/web/status/1093773413481537537",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "JohnLegere",
+                    "name": "John Legere",
+                    "id": 1394399438,
+                    "id_str": "1394399438",
+                    "indices": [
+                        0,
+                        11
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610877758"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:28:02 +0000 2019",
+        "id": 1093773434142699520,
+        "id_str": "1093773434142699520",
+        "text": "RT @IndiaTodayTech: Samsung Galaxy M30 specs leak includes 5,000mAh battery, triple rear cameras\nhttps://t.co/TeeRcvfRVt",
+        "source": "<a href=\"http://itdimension.intoday.in\" rel=\"nofollow\"> IndiaTodayFLASH</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1073676020,
+            "id_str": "1073676020",
+            "name": "IndiaTodayFLASH",
+            "screen_name": "IndiaTodayFLASH",
+            "location": null,
+            "url": null,
+            "description": "No dragging feet on news. Crisp & short news shots served here",
+            "translator_type": "none",
+            "protected": false,
+            "verified": true,
+            "followers_count": 1095359,
+            "friends_count": 118,
+            "listed_count": 1258,
+            "favourites_count": 136,
+            "statuses_count": 190864,
+            "created_at": "Wed Jan 09 12:46:38 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/787569612745428992/4QK6rGHI_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/787569612745428992/4QK6rGHI_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1073676020/1548246098",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Feb 08 07:24:56 +0000 2019",
+            "id": 1093772651254951936,
+            "id_str": "1093772651254951936",
+            "text": "Samsung Galaxy M30 specs leak includes 5,000mAh battery, triple rear cameras\nhttps://t.co/TeeRcvfRVt",
+            "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 4891628773,
+                "id_str": "4891628773",
+                "name": "IndiaTodayTech",
+                "screen_name": "IndiaTodayTech",
+                "location": "Noida, India",
+                "url": "http://indiatoday.intoday.in/technology/",
+                "description": "Tech news you can use! We write about phones & other gadgets, do reviews, tech tips and gaze into future to spot trends. Like us at: https://t.co/6SbeZHDugJ",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 14394,
+                "friends_count": 13,
+                "listed_count": 136,
+                "favourites_count": 16,
+                "statuses_count": 19208,
+                "created_at": "Thu Feb 11 07:05:51 +0000 2016",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": "",
+                "profile_background_image_url_https": "",
+                "profile_background_tile": false,
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/697679033937432576/JFN4zTh0_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/697679033937432576/JFN4zTh0_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/4891628773/1458220432",
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/TeeRcvfRVt",
+                        "expanded_url": "http://ow.ly/R0Kk30nCMm9",
+                        "display_url": "ow.ly/R0Kk30nCMm9",
+                        "indices": [
+                            77,
+                            100
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/TeeRcvfRVt",
+                    "expanded_url": "http://ow.ly/R0Kk30nCMm9",
+                    "display_url": "ow.ly/R0Kk30nCMm9",
+                    "indices": [
+                        97,
+                        120
+                    ]
+                }
+            ],
+            "user_mentions": [
+                {
+                    "screen_name": "IndiaTodayTech",
+                    "name": "IndiaTodayTech",
+                    "id": 4891628773,
+                    "id_str": "4891628773",
+                    "indices": [
+                        3,
+                        18
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610882684"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:28:07 +0000 2019",
+        "id": 1093773453981827072,
+        "id_str": "1093773453981827072",
+        "text": "RT @jikookmint: BTS: h-\n\nKpoppies: *already opining their samsung notes to write a whole easy with 536678 words about how BTS didn't pave t\u2026",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 965754140835172352,
+            "id_str": "965754140835172352",
+            "name": "hoseok's baby: certified\u2122",
+            "screen_name": "joonroyalty",
+            "location": "toonies\u2122",
+            "url": null,
+            "description": "I love Little One\u2122 #StreamIDOL http://youtu.be/Rd0UqlRf1eE",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 362,
+            "friends_count": 273,
+            "listed_count": 10,
+            "favourites_count": 99494,
+            "statuses_count": 76754,
+            "created_at": "Tue Feb 20 01:05:04 +0000 2018",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": "",
+            "profile_background_image_url_https": "",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1093569878559215616/SfbH_I0S_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093569878559215616/SfbH_I0S_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/965754140835172352/1549562402",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Feb 08 04:31:49 +0000 2019",
+            "id": 1093729087993102336,
+            "id_str": "1093729087993102336",
+            "text": "BTS: h-\n\nKpoppies: *already opining their samsung notes to write a whole easy with 536678 words about how BTS didn'\u2026 https://t.co/NgI9BfMY5R",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 806605107328667652,
+                "id_str": "806605107328667652",
+                "name": "Nat \ud83e\udd70",
+                "screen_name": "jikookmint",
+                "location": "saved: @jikookmintt",
+                "url": null,
+                "description": "\u1d36\u1d58\u207f\u1d4d\u1d4f\u1d52\u1d52\u1d4f \u1da6\u02e2 \u1d57\u1da6\u207f\u02b8 \u2661 Magic Shop, \uc57d\uc18d and BTS \u2661 fairy \u2661",
+                "translator_type": "none",
+                "protected": false,
+                "verified": false,
+                "followers_count": 380,
+                "friends_count": 200,
+                "listed_count": 5,
+                "favourites_count": 18103,
+                "statuses_count": 22871,
+                "created_at": "Wed Dec 07 21:03:38 +0000 2016",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "E81C4F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1092770614379716609/WFLLwTFi_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092770614379716609/WFLLwTFi_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/806605107328667652/1549371792",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "BTS: h-\n\nKpoppies: *already opining their samsung notes to write a whole easy with 536678 words about how BTS didn't pave the way and only 2nd gen groups deserve recognition for doing absolutely nothing*",
+                "display_text_range": [
+                    0,
+                    203
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 0,
+            "reply_count": 0,
+            "retweet_count": 11,
+            "favorite_count": 44,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/NgI9BfMY5R",
+                        "expanded_url": "https://twitter.com/i/web/status/1093729087993102336",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jikookmint",
+                    "name": "Nat \ud83e\udd70",
+                    "id": 806605107328667652,
+                    "id_str": "806605107328667652",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610887414"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:28:12 +0000 2019",
+        "id": 1093773473887985665,
+        "id_str": "1093773473887985665",
+        "text": "Galaxy S10 Leak Exposes Samsung\u2019s Serious Problem \u2013 Forbes https://t.co/bpBzMmcejX",
+        "source": "<a href=\"https://www.google.com/\" rel=\"nofollow\">Google</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 366496366,
+            "id_str": "366496366",
+            "name": "LLODO.COM",
+            "screen_name": "llodocom",
+            "location": null,
+            "url": "http://llodo.com",
+            "description": "http://llodo.com",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 297,
+            "friends_count": 283,
+            "listed_count": 16,
+            "favourites_count": 1,
+            "statuses_count": 71434,
+            "created_at": "Fri Sep 02 08:37:07 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1524823816/llodo_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1524823816/llodo_normal.png",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/bpBzMmcejX",
+                    "expanded_url": "https://goo.gl/fb/hd94YL",
+                    "display_url": "goo.gl/fb/hd94YL",
+                    "indices": [
+                        59,
+                        82
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610892160"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:28:20 +0000 2019",
+        "id": 1093773508621074432,
+        "id_str": "1093773508621074432",
+        "text": "Samsung 6.5 kg Fully-Automatic Top Loading Washing Machine (WA65M4205HV/TL, Light Grey) @ 12%\u00a0Off\u2026 https://t.co/VNyjpSk0QV",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3484614734,
+            "id_str": "3484614734",
+            "name": "DealDaemon",
+            "screen_name": "DealDaemonDeals",
+            "location": null,
+            "url": null,
+            "description": null,
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 53,
+            "friends_count": 25,
+            "listed_count": 4,
+            "favourites_count": 0,
+            "statuses_count": 39557,
+            "created_at": "Mon Sep 07 18:42:59 +0000 2015",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/640960450457288704/-wgw8WVP_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/640960450457288704/-wgw8WVP_normal.png",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Samsung 6.5 kg Fully-Automatic Top Loading Washing Machine (WA65M4205HV/TL, Light Grey) @ 12%\u00a0Off https://t.co/9MeqKmOkKD https://t.co/obYtmrZbsH",
+            "display_text_range": [
+                0,
+                121
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/9MeqKmOkKD",
+                        "expanded_url": "http://www.dealdaemon.com/2019/02/08/samsung-6-5-kg-fully-automatic-top-loading-washing-machine-wa65m4205hvtl-light-grey-12-off/",
+                        "display_url": "dealdaemon.com/2019/02/08/sam\u2026",
+                        "indices": [
+                            98,
+                            121
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1093773506838286336,
+                        "id_str": "1093773506838286336",
+                        "indices": [
+                            122,
+                            145
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Dy3dNZvUUAAIsoh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Dy3dNZvUUAAIsoh.jpg",
+                        "url": "https://t.co/obYtmrZbsH",
+                        "display_url": "pic.twitter.com/obYtmrZbsH",
+                        "expanded_url": "https://twitter.com/DealDaemonDeals/status/1093773508621074432/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 371,
+                                "h": 741,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 371,
+                                "h": 741,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1093773506838286336,
+                        "id_str": "1093773506838286336",
+                        "indices": [
+                            122,
+                            145
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Dy3dNZvUUAAIsoh.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Dy3dNZvUUAAIsoh.jpg",
+                        "url": "https://t.co/obYtmrZbsH",
+                        "display_url": "pic.twitter.com/obYtmrZbsH",
+                        "expanded_url": "https://twitter.com/DealDaemonDeals/status/1093773508621074432/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 371,
+                                "h": 741,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 340,
+                                "h": 680,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 371,
+                                "h": 741,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/VNyjpSk0QV",
+                    "expanded_url": "https://twitter.com/i/web/status/1093773508621074432",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        99,
+                        122
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610900441"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:28:38 +0000 2019",
+        "id": 1093773584600842241,
+        "id_str": "1093773584600842241",
+        "text": "SAME DAY REPAIR\n\nhttps://t.co/bfSWFmD4cN\n\n#ifixscreen #broken #device #smartphone #iphone #samsung #computer\u2026 https://t.co/n6mMosgfR2",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1707381752,
+            "id_str": "1707381752",
+            "name": "iFixScreens",
+            "screen_name": "ifixscreens",
+            "location": "United States",
+            "url": "https://ifixscreens.com",
+            "description": "iFixScreens, #1 source for all Smartphone, iPhone, iPod, iPad, Tablet, Mac, PC, and Game Console Repairs. visit http://iFixScreens.com/locations/",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 771,
+            "friends_count": 230,
+            "listed_count": 52,
+            "favourites_count": 296,
+            "statuses_count": 2777,
+            "created_at": "Wed Aug 28 13:59:37 +0000 2013",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "0000FF",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/596720773001150465/N1fS2mPf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/596720773001150465/N1fS2mPf_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707381752/1431104453",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "SAME DAY REPAIR\n\nhttps://t.co/bfSWFmD4cN\n\n#ifixscreen #broken #device #smartphone #iphone #samsung #computer #repair #service #usa #newyork #florida https://t.co/wbqHm4fPmK",
+            "display_text_range": [
+                0,
+                148
+            ],
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ifixscreen",
+                        "indices": [
+                            42,
+                            53
+                        ]
+                    },
+                    {
+                        "text": "broken",
+                        "indices": [
+                            54,
+                            61
+                        ]
+                    },
+                    {
+                        "text": "device",
+                        "indices": [
+                            62,
+                            69
+                        ]
+                    },
+                    {
+                        "text": "smartphone",
+                        "indices": [
+                            70,
+                            81
+                        ]
+                    },
+                    {
+                        "text": "iphone",
+                        "indices": [
+                            82,
+                            89
+                        ]
+                    },
+                    {
+                        "text": "samsung",
+                        "indices": [
+                            90,
+                            98
+                        ]
+                    },
+                    {
+                        "text": "computer",
+                        "indices": [
+                            99,
+                            108
+                        ]
+                    },
+                    {
+                        "text": "repair",
+                        "indices": [
+                            109,
+                            116
+                        ]
+                    },
+                    {
+                        "text": "service",
+                        "indices": [
+                            117,
+                            125
+                        ]
+                    },
+                    {
+                        "text": "usa",
+                        "indices": [
+                            126,
+                            130
+                        ]
+                    },
+                    {
+                        "text": "newyork",
+                        "indices": [
+                            131,
+                            139
+                        ]
+                    },
+                    {
+                        "text": "florida",
+                        "indices": [
+                            140,
+                            148
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/bfSWFmD4cN",
+                        "expanded_url": "http://www.ifixscreens.com",
+                        "display_url": "ifixscreens.com",
+                        "indices": [
+                            17,
+                            40
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1093773572319907840,
+                        "id_str": "1093773572319907840",
+                        "indices": [
+                            149,
+                            172
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Dy3dRNrWkAAZq19.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Dy3dRNrWkAAZq19.jpg",
+                        "url": "https://t.co/wbqHm4fPmK",
+                        "display_url": "pic.twitter.com/wbqHm4fPmK",
+                        "expanded_url": "https://twitter.com/ifixscreens/status/1093773584600842241/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 560,
+                                "h": 315,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 560,
+                                "h": 315,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 560,
+                                "h": 315,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1093773572319907840,
+                        "id_str": "1093773572319907840",
+                        "indices": [
+                            149,
+                            172
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Dy3dRNrWkAAZq19.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Dy3dRNrWkAAZq19.jpg",
+                        "url": "https://t.co/wbqHm4fPmK",
+                        "display_url": "pic.twitter.com/wbqHm4fPmK",
+                        "expanded_url": "https://twitter.com/ifixscreens/status/1093773584600842241/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 560,
+                                "h": 315,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 560,
+                                "h": 315,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 560,
+                                "h": 315,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ifixscreen",
+                    "indices": [
+                        42,
+                        53
+                    ]
+                },
+                {
+                    "text": "broken",
+                    "indices": [
+                        54,
+                        61
+                    ]
+                },
+                {
+                    "text": "device",
+                    "indices": [
+                        62,
+                        69
+                    ]
+                },
+                {
+                    "text": "smartphone",
+                    "indices": [
+                        70,
+                        81
+                    ]
+                },
+                {
+                    "text": "iphone",
+                    "indices": [
+                        82,
+                        89
+                    ]
+                },
+                {
+                    "text": "samsung",
+                    "indices": [
+                        90,
+                        98
+                    ]
+                },
+                {
+                    "text": "computer",
+                    "indices": [
+                        99,
+                        108
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/bfSWFmD4cN",
+                    "expanded_url": "http://www.ifixscreens.com",
+                    "display_url": "ifixscreens.com",
+                    "indices": [
+                        17,
+                        40
+                    ]
+                },
+                {
+                    "url": "https://t.co/n6mMosgfR2",
+                    "expanded_url": "https://twitter.com/i/web/status/1093773584600842241",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        110,
+                        133
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610918556"
+    } ,
+    {
+        "created_at": "Fri Feb 08 07:28:50 +0000 2019",
+        "id": 1093773634831900672,
+        "id_str": "1093773634831900672",
+        "text": "RT @omaakatugba: A German electricity company is offering  new customers an iPhone 7 or Samsung Galaxy S 9 if thez can  dump their electric\u2026",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 517712320,
+            "id_str": "517712320",
+            "name": "Mojevwe",
+            "screen_name": "OJEZS",
+            "location": "Jaji, Nigeria",
+            "url": null,
+            "description": "Electric Circuiting//Renewables//Solar Panel//Inverter//Batteries//UPSs//Low Voltage Panel//AVR/Wiring Surface/Conduit //Site Seeing//@ManUtd. Mjevwe@gmail.com",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 420,
+            "friends_count": 288,
+            "listed_count": 5,
+            "favourites_count": 769,
+            "statuses_count": 8373,
+            "created_at": "Wed Mar 07 15:54:06 +0000 2012",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1051513686156808192/k7g0VPJ3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051513686156808192/k7g0VPJ3_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/517712320/1538774458",
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Feb 07 23:58:41 +0000 2019",
+            "id": 1093660351390994433,
+            "id_str": "1093660351390994433",
+            "text": "A German electricity company is offering  new customers an iPhone 7 or Samsung Galaxy S 9 if thez can  dump their e\u2026 https://t.co/dUurjEdoX9",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": true,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 206366112,
+                "id_str": "206366112",
+                "name": "Oma Akatugba",
+                "screen_name": "omaakatugba",
+                "location": "Germany Nigeria",
+                "url": "http://omasports.com",
+                "description": "Multimedia sports Journalist, Content creator. Sports Business person. Publisher at http://omasports.com, owner of http://omasports.tv. Travel Junkie.",
+                "translator_type": "none",
+                "protected": false,
+                "verified": true,
+                "followers_count": 49294,
+                "friends_count": 2361,
+                "listed_count": 230,
+                "favourites_count": 1163,
+                "statuses_count": 112307,
+                "created_at": "Fri Oct 22 20:28:17 +0000 2010",
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1090665538047692800/bXdPtfPU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090665538047692800/bXdPtfPU_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/206366112/1549020948",
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "extended_tweet": {
+                "full_text": "A German electricity company is offering  new customers an iPhone 7 or Samsung Galaxy S 9 if thez can  dump their electricity supplier and  switch to them \n\ufffc",
+                "display_text_range": [
+                    0,
+                    157
+                ],
+                "entities": {
+                    "hashtags": [],
+                    "urls": [],
+                    "user_mentions": [],
+                    "symbols": []
+                }
+            },
+            "quote_count": 5,
+            "reply_count": 18,
+            "retweet_count": 43,
+            "favorite_count": 101,
+            "entities": {
+                "hashtags": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/dUurjEdoX9",
+                        "expanded_url": "https://twitter.com/i/web/status/1093660351390994433",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [],
+                "symbols": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "filter_level": "low",
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [],
+            "urls": [],
+            "user_mentions": [
+                {
+                    "screen_name": "omaakatugba",
+                    "name": "Oma Akatugba",
+                    "id": 206366112,
+                    "id_str": "206366112",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "filter_level": "low",
+        "lang": "en",
+        "timestamp_ms": "1549610930532"
+    } 
+    ]
+    

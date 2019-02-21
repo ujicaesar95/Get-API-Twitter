@@ -1,0 +1,1203 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Feb 08 08:30:25 +0000 2019",
+            "id": 1093789134051860480,
+            "id_str": "1093789134051860480",
+            "text": "goodnight i love him so much https://t.co/g5d6xTJRGO",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1093789086391906306,
+                        "id_str": "1093789086391906306",
+                        "indices": [
+                            29,
+                            52
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dy3rYQGWsAIoVzV.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dy3rYQGWsAIoVzV.jpg",
+                        "url": "https://t.co/g5d6xTJRGO",
+                        "display_url": "pic.twitter.com/g5d6xTJRGO",
+                        "expanded_url": "https://twitter.com/newkiddist/status/1093789134051860480/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 268,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 268,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 268,
+                                "h": 450,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1093789086391906306,
+                        "id_str": "1093789086391906306",
+                        "indices": [
+                            29,
+                            52
+                        ],
+                        "media_url": "http://pbs.twimg.com/tweet_video_thumb/Dy3rYQGWsAIoVzV.jpg",
+                        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Dy3rYQGWsAIoVzV.jpg",
+                        "url": "https://t.co/g5d6xTJRGO",
+                        "display_url": "pic.twitter.com/g5d6xTJRGO",
+                        "expanded_url": "https://twitter.com/newkiddist/status/1093789134051860480/photo/1",
+                        "type": "animated_gif",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 268,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 268,
+                                "h": 450,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 268,
+                                "h": 450,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                134,
+                                225
+                            ],
+                            "variants": [
+                                {
+                                    "bitrate": 0,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/tweet_video/Dy3rYQGWsAIoVzV.mp4"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 858910162941247488,
+                "id_str": "858910162941247488",
+                "name": "mk happy jeongin day! \u2661",
+                "screen_name": "newkiddist",
+                "location": "theresa tiff katie hailey",
+                "description": "[#\ub098\uc7ac\ubbfc & #\u5f90\u660e\u6d69] at this very moment, you are my eternity \u2661*\u00b7\u02da \u0f18\u02f3\u05b6\u030a\u2729",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 153,
+                "friends_count": 522,
+                "listed_count": 14,
+                "created_at": "Mon May 01 05:05:15 +0000 2017",
+                "favourites_count": 11524,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 29803,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1092287646427164673/7m8mgDjA_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092287646427164673/7m8mgDjA_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/858910162941247488/1549256644",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Feb 08 08:30:25 +0000 2019",
+            "id": 1093789133598797824,
+            "id_str": "1093789133598797824",
+            "text": "RT @UncleClinton_: I pity those girls who builds their love life On Korean movies. Don\u2019t forget that \u201cChukwudi\u201d is different from \u201cLe Chung\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "UncleClinton_",
+                        "name": "RiTzy\ud83e\uddd4\ud83c\udffd",
+                        "id": 949536020114132992,
+                        "id_str": "949536020114132992",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 983706505211011072,
+                "id_str": "983706505211011072",
+                "name": "yes I live like this.",
+                "screen_name": "i_am_kare",
+                "location": "Nairobi, Kenya",
+                "description": "we don't care what they say,we gon love who we wanna love,sue me",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 243,
+                "friends_count": 331,
+                "listed_count": 0,
+                "created_at": "Tue Apr 10 14:01:22 +0000 2018",
+                "favourites_count": 5530,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1332,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/985451023719333888/Cg7HQPBY_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/985451023719333888/Cg7HQPBY_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/983706505211011072/1523784808",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Feb 08 06:50:19 +0000 2019",
+                "id": 1093763941656862720,
+                "id_str": "1093763941656862720",
+                "text": "I pity those girls who builds their love life On Korean movies. Don\u2019t forget that \u201cChukwudi\u201d is different from \u201cLe Chung yo\u201d",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 949536020114132992,
+                    "id_str": "949536020114132992",
+                    "name": "RiTzy\ud83e\uddd4\ud83c\udffd",
+                    "screen_name": "UncleClinton_",
+                    "location": "Somewhere. ",
+                    "description": "MusicAddict || ||Libra \u264e ||",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3378,
+                    "friends_count": 2651,
+                    "listed_count": 3,
+                    "created_at": "Sat Jan 06 07:00:03 +0000 2018",
+                    "favourites_count": 1295,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 10158,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1064367288512581632/no0vTAGX_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1064367288512581632/no0vTAGX_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/949536020114132992/1521846916",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 76,
+                "favorite_count": 70,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 76,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Feb 08 08:30:25 +0000 2019",
+            "id": 1093789133196144642,
+            "id_str": "1093789133196144642",
+            "text": "RT @dekaylaaa_: i love spending time with my man \ud83e\udd70\ud83e\udd24",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "dekaylaaa_",
+                        "name": "DeeKay \ud83c\udf6d .",
+                        "id": 4794125342,
+                        "id_str": "4794125342",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1006439725199249408,
+                "id_str": "1006439725199249408",
+                "name": "8/24\ud83e\udd2a",
+                "screen_name": "baddiejesss",
+                "location": "On yo mind Apparently \ud83e\udd2a",
+                "description": "SC~ eastwood121314",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 142,
+                "friends_count": 304,
+                "listed_count": 0,
+                "created_at": "Tue Jun 12 07:35:04 +0000 2018",
+                "favourites_count": 1543,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 5219,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1092693483511517189/dJGAn1o-_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092693483511517189/dJGAn1o-_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1006439725199249408/1549581731",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Feb 08 04:12:10 +0000 2019",
+                "id": 1093724141629382656,
+                "id_str": "1093724141629382656",
+                "text": "i love spending time with my man \ud83e\udd70\ud83e\udd24",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 4794125342,
+                    "id_str": "4794125342",
+                    "name": "DeeKay \ud83c\udf6d .",
+                    "screen_name": "dekaylaaa_",
+                    "location": "Chattanooga, TN",
+                    "description": "I can do all things through christ who strengths me | Philippians 4:13 \u2728 | \ud83d\udc7b - deekay.b | CEO of @alyakcollection \ud83d\udecd",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 16654,
+                    "friends_count": 15719,
+                    "listed_count": 9,
+                    "created_at": "Thu Jan 21 17:19:37 +0000 2016",
+                    "favourites_count": 4142,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 18472,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1089551722916298758/zQJpF5uw_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1089551722916298758/zQJpF5uw_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4794125342/1548159675",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 47,
+                "favorite_count": 91,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 47,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Feb 08 08:30:25 +0000 2019",
+            "id": 1093789133036675072,
+            "id_str": "1093789133036675072",
+            "text": "@beekaynz I love peaches but they make me break out in hives....I let myself eat them one day of the year and I bec\u2026 https://t.co/L80mzS2UBH",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "beekaynz",
+                        "name": "Bridget",
+                        "id": 33429387,
+                        "id_str": "33429387",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/L80mzS2UBH",
+                        "expanded_url": "https://twitter.com/i/web/status/1093789133036675072",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1093719189238341632,
+            "in_reply_to_status_id_str": "1093719189238341632",
+            "in_reply_to_user_id": 33429387,
+            "in_reply_to_user_id_str": "33429387",
+            "in_reply_to_screen_name": "beekaynz",
+            "user": {
+                "id": 1071816252195143681,
+                "id_str": "1071816252195143681",
+                "name": "MandiShaw",
+                "screen_name": "MandiShaw17",
+                "location": "Auckland, New Zealand",
+                "description": "Dog mad. Wine enthusiast. 95% plant based 95% of the time. Future tortoise owner \ud83d\udc22",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 13,
+                "friends_count": 126,
+                "listed_count": 0,
+                "created_at": "Sun Dec 09 17:18:02 +0000 2018",
+                "favourites_count": 158,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 201,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1081350773819101184/dy437kep_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081350773819101184/dy437kep_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071816252195143681/1544376355",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Feb 08 08:30:25 +0000 2019",
+            "id": 1093789132894027777,
+            "id_str": "1093789132894027777",
+            "text": "i would really love to live alone in a separate house but making my parents my neighbors yes",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1035760391245058048,
+                "id_str": "1035760391245058048",
+                "name": "constanciandra",
+                "screen_name": "lleeiill",
+                "location": "jaxon riego",
+                "description": "trust the process",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 65,
+                "friends_count": 170,
+                "listed_count": 0,
+                "created_at": "Sat Sep 01 05:24:55 +0000 2018",
+                "favourites_count": 2865,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1352,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1092301700994523136/sZdY777F_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092301700994523136/sZdY777F_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1035760391245058048/1549260706",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Feb 08 08:30:25 +0000 2019",
+            "id": 1093789132852260864,
+            "id_str": "1093789132852260864",
+            "text": "RT @LawyerGirlMiami: If you love someone, let them go.\n\nIf they come back, it means nobody else wanted them. \n\nLet them go again.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "LawyerGirlMiami",
+                        "name": "Keiko YoungSang",
+                        "id": 786254890737635328,
+                        "id_str": "786254890737635328",
+                        "indices": [
+                            3,
+                            19
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 171657066,
+                "id_str": "171657066",
+                "name": "Heart Throb",
+                "screen_name": "CrazySlashCute",
+                "location": "Deep in your cognition",
+                "description": "One mystery box full of awesome & amazing. Everyone loves a Scorpio. #TeamScorpio #TeamFollowBack #SwallowMyPride #TeamCrazyAmazing #CrazySlashCute",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 506,
+                "friends_count": 567,
+                "listed_count": 3,
+                "created_at": "Tue Jul 27 21:31:06 +0000 2010",
+                "favourites_count": 504,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 15823,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/860341907091861504/XUuFJE-l_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/860341907091861504/XUuFJE-l_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/171657066/1493957108",
+                "profile_link_color": "0E9EC2",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "C203E8",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Thu Feb 07 16:37:47 +0000 2019",
+                "id": 1093549395801452544,
+                "id_str": "1093549395801452544",
+                "text": "If you love someone, let them go.\n\nIf they come back, it means nobody else wanted them. \n\nLet them go again.",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": []
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 786254890737635328,
+                    "id_str": "786254890737635328",
+                    "name": "Keiko YoungSang",
+                    "screen_name": "LawyerGirlMiami",
+                    "location": "Fort Lauderdale, FL",
+                    "description": "Tweets must not be construed as legal advice|Finance/Business Coach| Life Coach| Relationship Strategist|DM to book consultation |Subscribe https://t.co/AH0LuV51Fc",
+                    "url": "https://t.co/e4ABkiv3VQ",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/e4ABkiv3VQ",
+                                    "expanded_url": "http://www.TheNewBlackOrder.com",
+                                    "display_url": "TheNewBlackOrder.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/AH0LuV51Fc",
+                                    "expanded_url": "http://bit.ly/LGMIA",
+                                    "display_url": "bit.ly/LGMIA",
+                                    "indices": [
+                                        140,
+                                        163
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 8122,
+                    "friends_count": 74,
+                    "listed_count": 88,
+                    "created_at": "Wed Oct 12 17:19:08 +0000 2016",
+                    "favourites_count": 25363,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 20973,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1070377860383285248/1GiET43Y_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1070377860383285248/1GiET43Y_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/786254890737635328/1545227737",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 678,
+                "favorite_count": 1595,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 678,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Feb 08 08:30:25 +0000 2019",
+            "id": 1093789132600438784,
+            "id_str": "1093789132600438784",
+            "text": "RT @jangjunsenpai: if you                         then you \ndon\u2019t love                  don\u2019t \nme                             deserve \nat m\u2026",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "jangjunsenpai",
+                        "name": "\uc7a5\uc900\uc13c\ube60\uc774\u2661",
+                        "id": 2310146598,
+                        "id_str": "2310146598",
+                        "indices": [
+                            3,
+                            17
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1019193164983296001,
+                "id_str": "1019193164983296001",
+                "name": "Aozora \ud83c\udf46",
+                "screen_name": "AozoraAoi33",
+                "location": "Somewhere over the rainbow",
+                "description": "Woollim Family | Monsta X | Seventeen | GOT7",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 76,
+                "friends_count": 821,
+                "listed_count": 0,
+                "created_at": "Tue Jul 17 12:12:41 +0000 2018",
+                "favourites_count": 7531,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 13609,
+                "lang": "id",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1091725349199609856/zTPW6Hua_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091725349199609856/zTPW6Hua_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1019193164983296001/1548008834",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Feb 08 07:35:22 +0000 2019",
+                "id": 1093775277988007937,
+                "id_str": "1093775277988007937",
+                "text": "if you                         then you \ndon\u2019t love                  don\u2019t \nme                             deserve\u2026 https://t.co/hjFwropyGn",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/hjFwropyGn",
+                            "expanded_url": "https://twitter.com/i/web/status/1093775277988007937",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2310146598,
+                    "id_str": "2310146598",
+                    "name": "\uc7a5\uc900\uc13c\ube60\uc774\u2661",
+                    "screen_name": "jangjunsenpai",
+                    "location": "+62",
+                    "description": "\u201cwho are you to tell me to shut up\u201d. lee jangjun,2018. #\uc774\uc7a5\uc900 \ud83c\udf20",
+                    "url": "https://t.co/lj7mq3YM0a",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/lj7mq3YM0a",
+                                    "expanded_url": "https://curiouscat.me/jangjunsenpai",
+                                    "display_url": "curiouscat.me/jangjunsenpai",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3451,
+                    "friends_count": 156,
+                    "listed_count": 67,
+                    "created_at": "Sat Jan 25 14:37:51 +0000 2014",
+                    "favourites_count": 17574,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 98591,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1093509759649497088/vJZTkMIo_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1093509759649497088/vJZTkMIo_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2310146598/1549115675",
+                    "profile_link_color": "ABB8C2",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 10,
+                "favorite_count": 20,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 10,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Fri Feb 08 08:30:25 +0000 2019",
+            "id": 1093789132407492608,
+            "id_str": "1093789132407492608",
+            "text": "I shamelessly reposting like a lot \ud83d\udc80 but i really love .GERO_SUKI \u2018s drawings omg im dead because they\u2019re so cute\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a\ud83d\udc96",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1081121477628293120,
+                "id_str": "1081121477628293120",
+                "name": "ranginku",
+                "screen_name": "ranginku",
+                "location": "",
+                "description": "made it for the sake of orbs\ud83e\udd2a",
+                "url": "https://t.co/wrawYhssKK",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/wrawYhssKK",
+                                "expanded_url": "https://www.instagram.com/ranginku/",
+                                "display_url": "instagram.com/ranginku/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3,
+                "friends_count": 7,
+                "listed_count": 0,
+                "created_at": "Fri Jan 04 09:33:41 +0000 2019",
+                "favourites_count": 68,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 102,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1081126033103806465/DkqawZgj_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1081126033103806465/DkqawZgj_normal.jpg",
+                "profile_link_color": "F58EA8",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.029,
+        "max_id": 1093789134051860480,
+        "max_id_str": "1093789134051860480",
+        "next_results": "?max_id=1093789132407492607&q=love&lang=en&count=10&include_entities=1&result_type=recent",
+        "query": "love",
+        "refresh_url": "?since_id=1093789134051860480&q=love&lang=en&result_type=recent&include_entities=1",
+        "count": 10,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
